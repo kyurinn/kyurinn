@@ -43,12 +43,10 @@ ahora_mismo:   Escalando OrbitUp de la idea al producto real
 
 ### Stack
 
-**Lenguajes**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Mobile**
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Reanimated](https://img.shields.io/badge/Reanimated-001A72?style=for-the-badge&logo=react&logoColor=white)
@@ -85,14 +83,6 @@ ahora_mismo:   Escalando OrbitUp de la idea al producto real
 </p>
 
 ---
-
-### Contribuciones
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kyurinn/kyurinn/output/snake.svg" alt="Snake animation" />
-  <!-- Esto se genera con una GitHub Action (ver abajo). Hasta entonces 
-       mostrará un placeholder roto — es normal. -->
-</p>
 
 ### Hablemos
 
