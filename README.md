@@ -8,10 +8,10 @@
 
 <!-- ====== SOCIAL BADGES ====== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO/">
+  <a href="https://www.linkedin.com/in/mateo-cioppa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:TU-EMAIL@gmail.com">
+  <a href="mailto:kyurinn.net@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://orbitup.app">
@@ -22,7 +22,7 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
 ```yaml
 nombre:        Mateo Cioppa
@@ -41,41 +41,31 @@ ahora_mismo:   Escalando OrbitUp de la idea al producto real
 
 ---
 
-### 🛠️ Stack & Tecnologías
+### Stack
 
 **Lenguajes**
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
 **Mobile**
-
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Reanimated](https://img.shields.io/badge/Reanimated-001A72?style=for-the-badge&logo=react&logoColor=white)
-
-**Frontend Web**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-2D3748?style=for-the-badge&logo=react&logoColor=white)
 
-**Backend**
-
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-**IA & Cloud**
 
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-
-**Herramientas**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
@@ -83,7 +73,7 @@ ahora_mismo:   Escalando OrbitUp de la idea al producto real
 
 ---
 
-### 📊 GitHub Stats
+### Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyurinn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats"/>
@@ -96,7 +86,7 @@ ahora_mismo:   Escalando OrbitUp de la idea al producto real
 
 ---
 
-### 🐍 Contribuciones
+### Contribuciones
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kyurinn/kyurinn/output/snake.svg" alt="Snake animation" />
@@ -104,17 +94,7 @@ ahora_mismo:   Escalando OrbitUp de la idea al producto real
        mostrará un placeholder roto — es normal. -->
 </p>
 
----
-
-### 🎯 En qué estoy ahora
-
-- 🛰️ Escalando **OrbitUp** — móvil (Expo), web (Vite) y portal docente.
-- 🤖 Integrando IA generativa en flujos de aprendizaje reales.
-- 📈 Aprendiendo más de arquitectura, escalabilidad y producto.
-
----
-
-### 💬 Hablemos
+### Hablemos
 
 <p align="center">
   <i>Siempre abierto a charlar sobre productos, edtech, IA o un buen mate ☕</i>
