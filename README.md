@@ -1,9 +1,3 @@
-<!-- ====== BANNER ====== -->
-<p align="center">
-  <img src="./assets/banner.png" alt="Mateo Cioppa — Banner" width="100%" />
-  <!-- Placeholder: reemplazá por tu banner (1280x320 recomendado). 
-       Tip: hacelo en Canva/Figma con tu paleta. -->
-</p>
 
 <!-- ====== TYPING INTRO ====== -->
 <p align="center">
