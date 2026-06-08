@@ -127,8 +127,8 @@ ahora_mismo:   Escalando OrbitUp de la idea al producto real
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-USUARIO/">LinkedIn</a> •
-  <a href="mailto:TU-EMAIL@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/mateo-cioppa/">LinkedIn</a> •
+  <a href="mailto:kyurinn.net@gmail.com">Email</a> •
   <a href="https://orbitup.app">OrbitUp</a>
 </p>
 
