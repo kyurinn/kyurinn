@@ -1,8 +1,7 @@
-
 <!-- ====== TYPING INTRO ====== -->
 <p align="center">
   <a href="https://github.com/kyurinn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Mateo+Cioppa+%F0%9F%91%8B;CTO+%26+Full-Stack+Engineer;Construyo+productos%2C+no+solo+features;De+la+idea+al+deploy+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Hola%2C+soy+Mateo+Cioppa+%F0%9F%91%8B;Construyo+productos+de+punta+a+punta;Co-fundador+de+OrbitUp;De+la+idea+al+deploy+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,13 +10,17 @@
   <a href="https://www.linkedin.com/in/mateo-cioppa/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:kyurinn.net@gmail.com">
+  <a href="mailto:mateo.cioppa1@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://orbitup.app">
     <img src="https://img.shields.io/badge/OrbitUp-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" alt="OrbitUp"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=kyurinn&style=for-the-badge&color=6C63FF" alt="Profile views"/>
+  <!-- TODO: badge del portfolio cuando tengamos la URL
+  <a href="https://TU-PORTFOLIO.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  -->
 </p>
 
 ---
@@ -26,22 +29,27 @@
 
 ```yaml
 nombre:        Mateo Cioppa
-rol:           CTO & Full-Stack Engineer @ OrbitUp
-ubicacion:     Argentina 🇦🇷
-foco:          Apps móviles + plataformas web con IA de por medio
+rol:           Co-fundador & ex-CTO de OrbitUp
+estudio:       Ingeniería en Computación (UNLP)
+ubicacion:     La Plata, Argentina 🇦🇷
+foco:          Productos de punta a punta, con IA en el centro del flujo
 filosofia:     "Si no se usa, afuera. Ship > perfecto."
-ahora_mismo:   Escalando OrbitUp de la idea al producto real
+formacion:     NAVES (IAE Business School) · Usina de Ideas (UNLP)
+ahora_mismo:   Buscando mi próximo desafío part-time
 ```
 
-- **CTO** de [OrbitUp](https://orbitup.app) — plataforma edtech que ayuda a estudiantes a aprender mejor y a profesores a organizarse.
-- Me muevo cómodo en **todo el stack**: del schema de Mongo al pixel de la animación.
-- Integro **IA generativa** (Google Gemini y Claude) en producto real, no en demos.
-- Me obsesiona el **DX, la performance y el deploy limpio** (CI/CD, monorepos, migrations seguras).
-- Siempre aprendiendo algo nuevo — la curiosidad es el feature principal.
+- **Co-fundador y CTO de [OrbitUp](https://orbitup.app)** (2025-2026): plataforma EdTech publicada en el [App Store](https://apps.apple.com/ar/app/orbitup/id6756928952) y [Google Play](https://play.google.com/store/apps/details?id=com.orbitup.mobile), con más de 800 usuarios.
+- Llevé el producto de cero a producción como único developer full-time: backend propio, entornos dev/staging/prod, migraciones seguras y una suite de más de 3.000 tests.
+- Construyo con **herramientas de IA** (Claude Code, Gemini) como parte central del flujo: mi fuerte es pensar la solución y llevarla a producción.
+- Integré **IA generativa en producto real**, no en demos: generación de contenido de estudio y un chatbot académico.
+- Aprendo rápido: cada pieza del stack la incorporé sobre la marcha para resolver problemas concretos de producción.
 
 ---
 
 ### Stack
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -60,7 +68,6 @@ ahora_mismo:   Escalando OrbitUp de la idea al producto real
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
@@ -71,16 +78,14 @@ ahora_mismo:   Escalando OrbitUp de la idea al producto real
 
 ---
 
-### Stats
+### OrbitUp en números
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyurinn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyurinn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&langs_count=8" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyurinn&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
-</p>
+| Métrica | Valor |
+|---|---|
+| Usuarios registrados | +800 |
+| Plataformas | iOS, Android y web |
+| Tests automatizados | +3.000 |
+| Cadencia de deploy | Semanal, con entornos dev/staging/prod |
 
 ---
 
@@ -92,7 +97,7 @@ ahora_mismo:   Escalando OrbitUp de la idea al producto real
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateo-cioppa/">LinkedIn</a> •
-  <a href="mailto:kyurinn.net@gmail.com">Email</a> •
+  <a href="mailto:mateo.cioppa1@gmail.com">Email</a> •
   <a href="https://orbitup.app">OrbitUp</a>
 </p>
 
